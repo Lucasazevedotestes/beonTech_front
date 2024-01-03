@@ -9,11 +9,10 @@ Pre-requisites:
 ---------------
 
 <h3>Steps to Run the Test Scenarios</h3>
-1.  Download and Open the project folder inside of VSCode;
 
-2.  Open the Terminal inside of VSCode and Run the command: NPX Cypress Open;
-
-3.  Select End to End and click on the ValidSearch.cy.js file;
+1. Download and Open the project folder inside of VSCode;
+2. Open the Terminal inside of VSCode and Run the command: NPX Cypress Open;
+3. Select End to End and click on the ValidSearch.cy.js file;
 
 If the dependencies are correctly installed, the test scenarios will be executed.
 
@@ -25,17 +24,17 @@ If the dependencies are correctly installed, the test scenarios will be executed
 <h4><center>SearchPage.js:
 <br> </br>
 <div align="left">
-<img src="https://github.com/azevedomello/bank/blob/e0f8e4288aa3a3545a0590f05d6f7adf5f8e2971/1.jpeg" width="700px"/>
+<img src="Screenshot 2024-01-03 at 5.42.24 AM.png" width="700px"/>
 </div>
 
 <h4><center>validSearch.cy.js:
 <br> </br>
 <div align="left">
-<img src="https://github.com/azevedomello/bank/blob/e0f8e4288aa3a3545a0590f05d6f7adf5f8e2971/2.jpeg" width="700px"/>
+<img src="Screenshot 2024-01-03 at 5.41.21 AM.png" width="700px"/>
 </div>  
 
 <h4><center>cypress.config.js:
 <br> </br>
 <div align="left">
-<img src="https://github.com/azevedomello/bank/blob/e0f8e4288aa3a3545a0590f05d6f7adf5f8e2971/3.jpeg" width="700px"/>
+<img src="Screenshot 2024-01-03 at 5.43.19 AM.png" width="700px"/>
 </div>  
