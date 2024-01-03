@@ -19,7 +19,7 @@ If the dependencies are correctly installed, the test scenarios will be executed
 ---------------
 
 <h3>Project Explanation</h3>
-  1. At first, I have edited the cypressconfig.js to bring the base url, so we do not need to call that every time inside of the tests;
+1. At first, I have edited the cypressconfig.js to bring the base url, so we do not need to call that every time inside of the tests;
 
 2. So I created the SearchPage.js to organize the locators and methods needed to our automation script;
 
